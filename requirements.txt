@@ -1,0 +1,7 @@
+streamlit
+langchain-community
+requests
+beautifulsoup4
+PyPDF2
+faiss-cpu
+
